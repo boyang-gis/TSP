@@ -5,6 +5,7 @@
  Name: Michael Young
  Email: michaelyangbo@outlook.com
  Date: 2019/2/16
+ Ref.:  https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
 '''
 
 import matplotlib.pyplot as plt
